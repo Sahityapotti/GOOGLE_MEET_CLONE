@@ -27,11 +27,7 @@ GMeet Clone is a video conferencing application inspired by Google Meet. It allo
 **Authentication:** passport.
 ## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://github.com/abhi280403/google_meet_clone.git
-```
 or download the zip file.
 
 Go to the project directory
